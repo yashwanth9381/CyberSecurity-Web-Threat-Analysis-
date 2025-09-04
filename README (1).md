@@ -105,6 +105,3 @@ The goal is to identify malicious activities, understand attack patterns, and en
 
 ---
 
-## 👨‍💻 Author  
-- **Yashwanth**  
-- GitHub: [yourusername](https://github.com/yourusername)  
